@@ -13,7 +13,7 @@
 </h3>
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%" style="min-width: 150px; max-width: 30%;" />
+<img align="right" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%" style="min-width: 150px; max-width: 30%;" />
 
 ### ⚙️ GitHub Stats
 
