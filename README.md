@@ -27,7 +27,7 @@
 ### 🛠 Skills
 
 #### 🧩 Frontend
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
@@ -38,7 +38,7 @@
 </div>
 
 #### ⚙️ Backend
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
