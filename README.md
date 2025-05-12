@@ -56,7 +56,8 @@
 
 <h3 align="center">🐍 GitHub Snake Animation</h3>
 
+
 <p align="center">
-  <!-- صورة الأفعى بدون رابط -->
+  <!-- فقط صورة الأفعى بدون رابط -->
   <img src="https://raw.githubusercontent.com/abobakr-lashin/snk/output/snake.svg" alt="Snake animation" />
 </p>
