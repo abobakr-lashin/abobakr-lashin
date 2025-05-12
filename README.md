@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋! I'm Abobakr Lashin</h2>
+<h2 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+! I'm Abobakr Lashin</h2>
 
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" />
