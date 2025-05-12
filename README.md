@@ -2,15 +2,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" />
 </div>
 
-<h2 align="left">
+<h1 align="left">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I'm Abobakr Lashin
-</h2>
+</h1>
 
 
-<p align="left">
+<h2 align="left">
   A passionate full-stack developer with a love for creating modern web applications using the MERN stack & Tailwind CSS 🚀
-</p>
+</h2>
 
 ---
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%" style="min-width: 150px; max-width: 30%;" />
