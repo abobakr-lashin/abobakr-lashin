@@ -54,7 +54,26 @@
 </div>
 
 ---
+<style>
+        /* تخصيص تأثير الأنيميشن */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
+        h2 {
+            font-size: 2em;
+            font-family: Arial, sans-serif;
+            color: #333;
+            animation: fadeIn 2s ease-out;
+        }
+    </style>
 <br clear="both">
 
 <h3 align="left">🐍 GitHub Snake Animation</h3>
