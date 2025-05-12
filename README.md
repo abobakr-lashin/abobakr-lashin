@@ -49,8 +49,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJkMGQ5NzE2bmpqODM2a2dnajFnaDQ2ZTQ5Y3M3NGNxZTM4amR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  width="90%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJucjV4dzE4cmJocDU2MWtwN2w3c25iZmtobWZ0dDFza3g3dXhidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  width="90%" />
 </div>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
