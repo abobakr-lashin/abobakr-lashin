@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! My name is Abobakr Lashin</h2>
+<h2 align="center">Hi 👋! I'm Abobakr Lashin</h2>
 
-<p align="center">I'm a full-stack developer passionate about building modern web apps using MERN stack & Tailwind CSS 🚀</p>
+<p align="center">A passionate full-stack developer with a love for creating modern web applications using the MERN stack & Tailwind CSS 🚀</p>
 
 ---
 
@@ -16,7 +16,8 @@
 <h2 align="center">🛠 Skills</h2>
 
 <div align="center">
-  <!-- Frontend -->
+  <!-- Frontend Skills -->
+  <h3>Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
@@ -24,10 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
-
-  <!-- Backend -->
   
-
+  <!-- Backend Skills -->
+  <h3>Backend</h3>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center">🌍 Let's connect!</p>
+<h3 align="center">🌍 Let's Connect!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abubakr-lashin-60383b2a2/" target="_blank">
@@ -54,7 +54,8 @@
 
 <br clear="both">
 
+<h3 align="center">🐍 GitHub Snake Animation</h3>
 
-<img src="https://raw.githubusercontent.com/abobakr-lashin/snk/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abobakr-lashin/snk/output/snake.svg" alt="Snake animation" />
+</p>
