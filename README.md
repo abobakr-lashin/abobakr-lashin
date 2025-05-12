@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJucjV4dzE4cmJocDU2MWtwN2w3c25iZmtobWZ0dDFza3g3dXhidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  width="90%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJucjV4dzE4cmJocDU2MWtwN2w3c25iZmtobWZ0dDFza3g3dXhidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
 <br clear="both">
