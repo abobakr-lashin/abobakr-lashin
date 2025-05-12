@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! I'm Abobakr Lashin</h2>
 
+
+
+![Hi Abubakr GIF](https://raw.githubusercontent.com/abobakr-lashin/photo/main/hi-abubakr.gif)
+ [GitHub](https://github.com/abobakr-lashin)
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" />
 </div>
