@@ -62,7 +62,44 @@
 </div>
 
 ---
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abobakr-lashin&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abobakr-lashin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+### 👀 Profile Visits
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=abobakr-lashin&icon=2&color=4" alt="Visitor Count" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Credit: <a href="https://github.com/abobakr-lashin">abobakr-lashin</a> — Last updated on: 12/05/2025</sub>
+</p>
+---
 ### 🐍 GitHub Snake Animation
 
 <p align="center">
