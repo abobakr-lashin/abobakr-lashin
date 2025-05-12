@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abobakr-lashin&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakr-lashin&layout=compact&theme=dracula" height="150" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobakr-lashin&layout=compact&theme=radical)
 </div>
 
 ---
