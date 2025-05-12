@@ -1,4 +1,12 @@
 <h2 align="left">Hi 👋! I'm Abobakr Lashin</h2>
+<div style="height: 0; padding-bottom: calc(42.86%); position:relative; width: 100%;">
+  <iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" 
+    src="https://www.kapwing.com/e/682258ac26fdfc46ff42bbc5" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" 
+    title="Embedded content made on Kapwing" width="100%">
+  </iframe>
+</div>
+<p style="font-size: 12px; text-align: right;">Gif edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" />
 </div>
@@ -54,26 +62,7 @@
 </div>
 
 ---
-<style>
-        /* تخصيص تأثير الأنيميشن */
-        @keyframes fadeIn {
-            0% {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            100% {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
 
-        h2 {
-            font-size: 2em;
-            font-family: Arial, sans-serif;
-            color: #333;
-            animation: fadeIn 2s ease-out;
-        }
-    </style>
 <br clear="both">
 
 <h3 align="left">🐍 GitHub Snake Animation</h3>
