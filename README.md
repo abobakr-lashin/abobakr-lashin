@@ -38,7 +38,7 @@
 </div>
 
 #### ⚙️ Backend
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap:20px;">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
