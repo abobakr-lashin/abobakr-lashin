@@ -86,14 +86,6 @@
 
 ---
 
-### 👀 Profile Visits
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" alt="Visitor Badge" />
-</p>
-
-
----
 
 <p align="center">
   <sub>Credit: <a href="https://github.com/abobakr-lashin">abobakr-lashin</a> — Last updated on: 12/05/2025</sub>
