@@ -17,7 +17,7 @@
 
 ### ⚙️ GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=abobakr-lashin&show_icons=true&theme=dracula" style="width: 48%; min-width: 280px; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakr-lashin&layout=compact&theme=dracula" style="width: 48%; min-width: 280px; height: auto;" />
 </div>
