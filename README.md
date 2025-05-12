@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm Abobakr Lashin</h2>
 
-<p style="font-size: 12px; text-align: right;">Gif edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" />
 </div>
