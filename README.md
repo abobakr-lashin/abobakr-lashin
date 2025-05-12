@@ -26,12 +26,12 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
 
   <!-- Backend -->
-  ---
+  
 
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
 </div>
 
 ---
@@ -50,9 +50,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJucjV4dzE4cmJocDU2MWtwN2w3c25iZmtobWZ0dDFza3g3dXhidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
+---
 
 <br clear="both">
 
