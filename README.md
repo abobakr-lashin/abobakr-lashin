@@ -59,5 +59,5 @@
 
 <p align="center">
   <!-- فقط صورة الأفعى بدون رابط -->
-  <img src="https://raw.githubusercontent.com/abobakr-lashin/snk/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abobakr-lashin/snk/output/snake.svg" alt="Snake animation" style="pointer-events: none;" />
 </p>
