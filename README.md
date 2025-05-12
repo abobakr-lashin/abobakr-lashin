@@ -8,9 +8,9 @@
 </h1>
 
 
-<h2 align="left">
+<h3 align="left">
   A passionate full-stack developer with a love for creating modern web applications using the MERN stack & Tailwind CSS 🚀
-</h2>
+</h3>
 
 ---
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%" style="min-width: 150px; max-width: 30%;" />
