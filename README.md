@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" alt="visitors" />
 </div>
 
-<h1 align="center">Hi 👋 I'm Abobakr Mohammed</h1>
+<h1 align="center">Hi 👋 I'm Abobakr Lashin</h1>
 
 <h3 align="center">Full-Stack Developer | MERN Stack | Tailwind CSS</h3>
 
