@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin&left_color=blue&right_color=yellow" />
+  <img src="https://img.shields.io/badge/Profile%20Views-👀-blue" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/abobakr-lashin/count.svg" />
 </p>
 
 
