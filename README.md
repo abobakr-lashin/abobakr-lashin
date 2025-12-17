@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abobakr-lashin/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin&left_color=blue&right_color=yellow" />
 </p>
+
 
 
 <h1 align="center">Hi 👋 I'm Abobakr Lashin</h1>
