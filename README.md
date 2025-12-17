@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin.abobakr-lashin" alt="visitors" />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abobakr-lashin&left_color=blue&right_color=green" />
+</p>
 
 <h1 align="center">Hi 👋 I'm Abobakr Lashin</h1>
 
