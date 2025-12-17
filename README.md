@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-👀-blue" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/abobakr-lashin/count.svg" />
+  <img src="https://profile-counter.glitch.me/abobakr-lashin/count.svg" alt="Profile Views Counter"/>
 </p>
-
 
 
 <h1 align="center">Hi 👋 I'm Abobakr Lashin</h1>
